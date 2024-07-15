@@ -21,7 +21,7 @@
 
 <hr>
 <Br>
-<h1 align="center">Get in Touch! 📬</h1>
+<h1 align="center">contact me! 📬</h1>
 <Br>
 <p align="center">
 	<a href="mailto:caritoalvarez312@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
