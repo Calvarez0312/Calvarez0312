@@ -19,7 +19,10 @@
 
 📚 En mi tiempo libre, me encanta leer novelas y desarrollo personal. También disfruto de actividades al aire libre como el senderismo y el patinaje 🛼.
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<hr>
+<Br>
+<h1 align="center">Get in Touch! 📬</h1>
+<Br>
 <p align="center">
 	<a href="mailto:caritoalvarez312@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Calvarez0312"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -27,13 +30,7 @@
 	<a href="linkedin.com/in/carolina-gutiérrez-alvarez-45967112b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
-<Br>
-<hr>
-<Br>
-<h1 align="center">Skills I have! 🤸‍♂</h1>
-<Br>
-<p align="center">
 
- |![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
+
 
 
