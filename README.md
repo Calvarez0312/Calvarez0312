@@ -1,5 +1,5 @@
-## Hi there 👋
-
+![Banner](https://github.com/Calvarez0312/Calvarez0312/blob/main/Banner.jpg)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Carolina Gutierrez </h1>
 <!--
 **Calvarez0312/Calvarez0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
