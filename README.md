@@ -18,6 +18,14 @@
 🚀 Busco oportunidades donde pueda seguir aprendiendo y creciendo en el campo del análisis de datos, aportando mi energía y habilidades analíticas para resolver problemas y generar impacto positivo. 
 
 📚 En mi tiempo libre, me encanta leer novelas y desarrollo personal. También disfruto de actividades al aire libre como el senderismo y el patinaje 🛼.
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<p align="center">
+	<a href="mailto:caritoalvarez312@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/Calvarez0312"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/(+54)1155954322"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="linkedin.com/in/carolina-gutiérrez-alvarez-45967112b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 <!--
 **Calvarez0312/Calvarez0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
