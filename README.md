@@ -33,18 +33,29 @@
   </a>
 </p>
 
-<hr>
-<Br>
-<h1 align="center">Contact me! 📬</h1>
-<Br>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tools I use 📬</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
 <p align="center">
-   <a[![Linkedin](https://img.icons8.com/fluency/48/000000/linkedin.png "Linkedin")](https://www.linkedin.com/in/carolina-guti%C3%A9rrez-alvarez-45967112b/) [![Telefono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "Telefono")](tel:(+54)1155954322) [![Mail] 
-  (https://img.icons8.com/fluency/48/000000/apple-mail.png "Mail")](caritopj45@hotmsil.com)>
- <a/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,discord,github,ai,py,sqlite,vscode&perline=14" />
+  </a>
 </p>
 
-
+<p align="center">
+  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
+</p>
 
 
 
