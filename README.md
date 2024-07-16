@@ -30,15 +30,20 @@
 	<a href="linkedin.com/in/carolina-gutiérrez-alvarez-45967112b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
-<hr>
-<Br>
-<h1 align="center">tools I use! 💻</h1>
-<Br>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tools I use👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,discord,github,ai,py,sqlite,vscode,kubernetes&perline=14" />
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-91EA2C?style=flat-square&logo=Pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-A8B9CC?style=flat-square&logo=SQL&logoColor=white)
+
 
 
 
