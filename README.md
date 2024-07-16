@@ -30,6 +30,16 @@
 	<a href="linkedin.com/in/carolina-gutiérrez-alvarez-45967112b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
+## 💻 Herramientas que manejo:
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-91EA2C?style=flat-square&logo=Pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-A8B9CC?style=flat-square&logo=SQL&logoColor=white)
+![Visualstudiocode](//raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg)
+![Git](https://git-scm.com/)
+![github](https://github.com/bindian0509)
+
 
 
 
