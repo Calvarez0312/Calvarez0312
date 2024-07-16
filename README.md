@@ -44,9 +44,13 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/carolina-gutiérrez-alvarez-45967112b" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://gmail.com/users/caritoalvarez312@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=all" alt="Gmail" height="50" width="50" /></a> 
-<a href="https://github.com/Calvarez0312" target="blank"><img align="center" src="https://skillicons.dev/icons?i=all" alt="Github" height="50" width="50" /></a>
+<a href="https://github.com/Calvarez0312"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 <a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](caritoalvarez312@gmail.com)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/Carolinalvarez0312)
+
+[![Linkedin](https://img.icons8.com/fluency/48/000000/linkedin.png "Linkedin")](https://www.linkedin.com/in/carolina-guti%C3%A9rrez-alvarez-45967112b/) [![Telefono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "Telefono")](tel:(+54)1155954322) [![Mail](https://img.icons8.com/fluency/48/000000/apple-mail.png "Mail")](caritopj45@hotmsil.com)
 
 
 
