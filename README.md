@@ -30,7 +30,7 @@
 	<a href="linkedin.com/in/carolina-gutiérrez-alvarez-45967112b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
-## 💻 Herramientas que manejo:
+ <h1 align="center">Herramientas que manejo! 💻</h1>
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
