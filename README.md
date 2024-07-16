@@ -33,13 +33,10 @@
   </a>
 </p>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+<hr>
+<Br>
+<h1 align="center">Contact me! 📬</h1>
+<Br>
 <p align="center">
 
 [![Linkedin](https://img.icons8.com/fluency/48/000000/linkedin.png "Linkedin")](https://www.linkedin.com/in/carolina-guti%C3%A9rrez-alvarez-45967112b/) [![Telefono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "Telefono")](tel:(+54)1155954322) [![Mail](https://img.icons8.com/fluency/48/000000/apple-mail.png "Mail")](caritopj45@hotmsil.com)
