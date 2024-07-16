@@ -19,16 +19,6 @@
 
 📚 En mi tiempo libre, me encanta leer novelas y desarrollo personal. También disfruto de actividades al aire libre como el senderismo y el patinaje 🛼.
 
-<hr>
-<Br>
-<h1 align="center">contact me! 📬</h1>
-<Br>
-<p align="center">
-	<a href="mailto:caritoalvarez312@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Calvarez0312"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/(+54)1155954322"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="linkedin.com/in/carolina-gutiérrez-alvarez-45967112b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -42,6 +32,21 @@
     <img src="https://skillicons.dev/icons?i=git,discord,github,ai,py,sqlite,vscode&perline=14" />
   </a>
 </p>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/carolina-gutiérrez-alvarez-45967112b" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://gmail.com/users/caritoalvarez312@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=all" alt="Gmail" height="50" width="50" /></a> 
+<a href="https://github.com/Calvarez0312" target="blank"><img align="center" src="https://skillicons.dev/icons?i=all" alt="Github" height="50" width="50" /></a>
+<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 
 
 
