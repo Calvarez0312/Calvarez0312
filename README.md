@@ -39,8 +39,9 @@
 <Br>
 
 <p align="center">
-
-[![Linkedin](https://img.icons8.com/fluency/48/000000/linkedin.png "Linkedin")](https://www.linkedin.com/in/carolina-guti%C3%A9rrez-alvarez-45967112b/) [![Telefono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "Telefono")](tel:(+54)1155954322) [![Mail](https://img.icons8.com/fluency/48/000000/apple-mail.png "Mail")](caritopj45@hotmsil.com)
+   <a[![Linkedin](https://img.icons8.com/fluency/48/000000/linkedin.png "Linkedin")](https://www.linkedin.com/in/carolina-guti%C3%A9rrez-alvarez-45967112b/) [![Telefono](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "Telefono")](tel:(+54)1155954322) [![Mail] 
+  (https://img.icons8.com/fluency/48/000000/apple-mail.png "Mail")](caritopj45@hotmsil.com)>
+ <a/>
 </p>
 
 
